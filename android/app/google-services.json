@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "513755851391",
+    "project_id": "blogstar-a344c",
+    "storage_bucket": "blogstar-a344c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513755851391:android:72503000f440d6fc58ad4a",
+        "android_client_info": {
+          "package_name": "com.example.blog_star"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513755851391-6f2ahcj12k20r55i95ob0p9mm7k6eda3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwxHiBuS8pg4ImvdLYmmg2kdIQELC1OUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513755851391-6f2ahcj12k20r55i95ob0p9mm7k6eda3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
